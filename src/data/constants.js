@@ -24,39 +24,51 @@ export const skills = [
     skills: [
       {
         name: "Creativity",
+        image: "./skillImages/creative.png",
       },
       {
         name: "Spatial Awareness",
+        image: "./skillImages/awareness.png",
       },
       {
         name: "Attention to Detail",
+        image: "./skillImages/attention.png",
       },
       {
         name: "Communication Skills",
+        image: "./skillImages/communication.png",
       },
       {
         name: "Problem-Solving Skills",
+        image: "./skillImages/problem.png",
       },
       {
         name: "Knowledge of Design Principles",
+        image: "./skillImages/knowledge.png",
       },
       {
         name: "Technical Proficiency",
+        image: "./skillImages/technical.png",
       },
       {
         name: "Color Theory",
+        image: "./skillImages/color.png",
       },
       {
         name: "Client Management",
+        image: "./skillImages/managment.png",
       },
       {
         name: "Time Management",
+        image: "./skillImages/time.png",
       },
       {
         name: "Flexibility and Adaptability",
+        image: "./skillImages/flexible.png",
       },
       {
         name: "Business Acumen",
+        image: "./skillImages/business.png",
       },
     ],
   },
